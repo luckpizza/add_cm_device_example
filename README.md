@@ -5,6 +5,6 @@ In order to add a device to a CM tree, please follow this (http://linux-sunxi.or
 tutorial changing the repository with this one and running the initialization as follow: 
 
 
-´´´
-./initialize.sh <yourdevice> <yourdevicepretty> <yourvendorpretty> <manufacturer>
-´´´
+
+./initialize.sh \<yourdevice\> \<yourdevicepretty\> \<yourvendorpretty\> \<manufacturer\>
+
