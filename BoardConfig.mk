@@ -16,7 +16,7 @@
 -include vendor/SEDMANUFACTURER/SEDNAME/BoardConfigVendor.mk
 
 # Use the part that is common between all SEDMANUFACTURER
-include device/SEDMANUFACTURER/common/BoardConfig.mk
+#include device/SEDMANUFACTURER/common/BoardConfig.mk
 
 BOARD_CUSTOM_RECOVERY_KEYMAPPING := ../../device/SEDMANUFACTURER/SEDNAME/recovery_keys.c
 
